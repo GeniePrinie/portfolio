@@ -1,7 +1,12 @@
+import React, { useEffect } from "react";
 import { data } from "./data/projects";
 import { ItemCard } from "./ItemCard";
 
 export const Home = () => {
+  useEffect(() => {
+    document.title = "Genie's Porfolio";
+  }, []);
+
   return (
     <div className="container">
       <h1 className="text-center mt-4 text-primary">Portfolio</h1>
