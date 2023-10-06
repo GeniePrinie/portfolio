@@ -11,6 +11,7 @@ export const data = {
       id: 1,
       image: img1,
       title: "Project 1",
+      projectName: "Rainydays",
       description:
         "An online outdoor jacket store. You can add/remove item to/from shopping cart.",
       website: "https://cross-course-project-rainydays.netlify.app/",
@@ -21,6 +22,7 @@ export const data = {
       id: 2,
       image: img2,
       title: "Project 2",
+      projectName: "Community Science Museum",
       description: "A museum website for school children and parents.",
       website:
         "https://semester-project-1-csm-prinyapon-prinyanut.netlify.app/",
@@ -30,6 +32,7 @@ export const data = {
       id: 3,
       image: img3,
       title: "Project 3",
+      projectName: "Living Organically.",
       description: "A recipes blog website that uses REST api from wordpress.",
       website: "https://living-organically.netlify.app/",
       repository:
@@ -39,6 +42,7 @@ export const data = {
       id: 4,
       image: img4,
       title: "Project 4",
+      projectName: "Kattalk",
       description:
         "Noroff's social media site. All Noroff students and teachers can create an email and log in. Just follow the domain name instuction :)",
       website: "https://kattalk.netlify.app/html/user/login/",
@@ -48,6 +52,7 @@ export const data = {
       id: 5,
       image: img5,
       title: "Project 5",
+      projectName: "BidBuy",
       description:
         "Noroff's market (auction site) where anyone at Noroff can sell or bid. All Noroff students and teachers can create an email and log in. Just follow the domain name instuction :)",
       website: "https://bidbuyauction.netlify.app/src/html/listing/search/",
@@ -57,7 +62,9 @@ export const data = {
       id: 6,
       image: img6,
       title: "Project 6",
-      description: "An online shopping store created by using React",
+      projectName: "The Boutique",
+      description:
+        "An online shopping store created by using React and API provided by Noroff.",
       website: "https://living-organically.netlify.app/",
       repository: "https://github.com/GeniePrinie/js2-framework",
     },
