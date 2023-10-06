@@ -1,0 +1,25 @@
+$primary: #c30182;
+$secondary: #ffd1dc;
+$info: #cccccc;
+$dark: #333333;
+$light: #ffebf2;
+
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: "Open Sans", sans-serif;
+  background-color: #ffd1dc;
+}
+
+h1 {
+  font-family: "Young Serif", serif;
+  font-size: 60px;
+}
+
+h2,
+h5 {
+  font-family: "Source Code Pro", monospace;
+  font-weight: bolder;
+}
