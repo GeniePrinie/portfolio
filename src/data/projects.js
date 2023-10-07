@@ -65,7 +65,7 @@ export const data = {
       projectName: "The Boutique",
       description:
         "An online shopping store created by using React and API provided by Noroff.",
-      website: "https://living-organically.netlify.app/",
+      website: "https://the-boutique.netlify.app/",
       repository: "https://github.com/GeniePrinie/js2-framework",
     },
   ],
