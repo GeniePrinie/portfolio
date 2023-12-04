@@ -4,6 +4,7 @@ import img3 from "../images/img3.jpg";
 import img4 from "../images/img4.jpg";
 import img5 from "../images/img5.jpg";
 import img6 from "../images/img6.jpg";
+import img7 from "../images/img7.jpg";
 
 export const data = {
   projectData: [
@@ -67,6 +68,16 @@ export const data = {
         "An online shopping store created by using React and API provided by Noroff.",
       website: "https://the-boutique.netlify.app/",
       repository: "https://github.com/GeniePrinie/js2-framework",
+    },
+    {
+      id: 7,
+      image: img7,
+      title: "Project 7",
+      projectName: "Holidaze",
+      description:
+        "A booking site created by using React and API provided by Noroff.",
+      website: "https://holidaze-by-prinyanut.netlify.app/",
+      repository: "https://github.com/GeniePrinie/project-exam-2",
     },
   ],
 };
