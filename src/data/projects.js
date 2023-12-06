@@ -65,7 +65,7 @@ export const data = {
       title: "Project 6",
       projectName: "The Boutique",
       description:
-        "An online shopping store created by using React and API provided by Noroff.",
+        "An online shopping store created by using React and API provided by Noroff. Customers can see things that are on-sale, put things into the shopping cart and complete purchases.",
       website: "https://the-boutique.netlify.app/",
       repository: "https://github.com/GeniePrinie/js2-framework",
     },
@@ -75,7 +75,7 @@ export const data = {
       title: "Project 7",
       projectName: "Holidaze",
       description:
-        "A booking site created by using React and API provided by Noroff.",
+        "A booking site created by using React and API provided by Noroff. Any signed in customers can book venues and see their upcoming bookings. Any signed in managers can create venues and see their bookings.",
       website: "https://holidaze-by-prinyanut.netlify.app/",
       repository: "https://github.com/GeniePrinie/project-exam-2",
     },
